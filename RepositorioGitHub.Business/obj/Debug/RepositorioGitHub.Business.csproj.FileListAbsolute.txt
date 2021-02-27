@@ -1,0 +1,48 @@
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\LocalStorage.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csprojAssemblyReference.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\x86\sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\x64\sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Business.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\LocalStorage.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\obj\Debug\RepositorioGitHub.Business.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\WebDriver.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Business\bin\Debug\WebDriver.xml

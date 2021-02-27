@@ -1,0 +1,24 @@
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.csproj.CopyComplete
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\obj\Debug\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\WebDriver.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositoriosGitHub.Infra.CrossCutting.Adapter\bin\Debug\WebDriver.xml

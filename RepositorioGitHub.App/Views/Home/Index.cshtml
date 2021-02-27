@@ -1,0 +1,57 @@
+﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.GitHubRepositoryViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<h2>Teste Desenvolvedor W12</h2>
+
+<div class="jumbotron">   
+    <p class="lead">Acesse a documentação da API do github abaixo:</p>    
+    <hr class="my-4">    
+    <p class="lead">
+        <!--<a class="btn btn-primary btn-lg" target="_blank" href="https://docs.github.com/en" role="button">Visite a documentação</a>-->
+        <a class="btn btn-primary btn-lg" target="_blank" role="button">Visite a documentação</a>
+    </p>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <tr>
+                <th>Nome</th>
+                <th>Proprietario</th>
+                <th>Nome Completo</th>
+                <th>URL</th>
+                <th></th>
+            </tr>
+
+            @if (Model != null && Model.Results != null)
+            {
+                foreach (var item in Model.Results)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Owner.Login)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Url)
+                        </td>
+
+                        <td>
+                            @Html.ActionLink("Detalhe", "Details", new { id = item.Id})
+                        </td>
+                    </tr>
+                }
+            }
+        </table>      
+    </div>
+</div>
+

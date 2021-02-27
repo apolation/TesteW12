@@ -1,0 +1,94 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Meu Aplicativo ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Meus Repositórios", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Veja Outros Repositórios", "GetRepositorie", "Home")</li>
+                    <li>@Html.ActionLink("Favoritos", "Favorite", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <input type="hidden" id="success"
+               value="@TempData["success"]" />
+        <input type="hidden" id="info"
+               value="@TempData["info"]" />
+        <input type="hidden" id="warning"
+               value="@TempData["warning"]" />
+        <input type="hidden" id="error"
+               value="@TempData["error"]" />
+    </div>
+    <div class="container body-content">
+
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Meu Aplicativo ASP.NET</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>
+<script>
+    $(function () {
+        var displayMessage = function (message, msgType) {
+            toastr.options = {
+                "closeButton": true,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "300",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            };
+            toastr[msgType](message);
+        };
+
+        if ($('#success').val()) {
+            displayMessage($('#success').val(), 'success');
+        }
+        if ($('#info').val()) {
+            displayMessage($('#info').val(), 'info');
+        }
+        if ($('#warning').val()) {
+            displayMessage($('#warning').val(), 'warning');
+        }
+        if ($('#error').val()) {
+            displayMessage($('#error').val(), 'error');
+        }
+    });
+</script>

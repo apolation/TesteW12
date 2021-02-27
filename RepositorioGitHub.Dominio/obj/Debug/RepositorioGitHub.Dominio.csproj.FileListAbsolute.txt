@@ -1,0 +1,20 @@
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csprojAssemblyReference.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\obj\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\WebDriver.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Dominio\bin\Debug\WebDriver.xml

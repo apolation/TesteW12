@@ -1,0 +1,242 @@
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\x86\sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\x64\sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.exe
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.rsp
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.exe
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.rsp
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.exe
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Razor.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Container.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\WebActivatorEx.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\WebGrease.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Razor.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Container.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csprojAssemblyReference.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\x86\sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\x64\sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.App.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.exe
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.exe.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csc.rsp
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.exe
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.exe.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\csi.rsp
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.AppContext.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Console.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Net.Http.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.ValueTuple.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.exe
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.exe.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\vbc.rsp
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Antlr3.Runtime.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.SqlServer.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Newtonsoft.Json.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Business.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositoriosGitHub.Infra.CrossCutting.Adapter.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.EF6.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.Linq.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Helpers.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Mvc.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Optimization.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Razor.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Abstractions.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Container.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\WebActivatorEx.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\WebGrease.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Business.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositorioGitHub.Infra.dll.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\RepositoriosGitHub.Infra.CrossCutting.Adapter.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\EntityFramework.SqlServer.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Data.SQLite.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Helpers.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Mvc.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Optimization.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.Razor.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Newtonsoft.Json.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Abstractions.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Container.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Unity.Mvc.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Antlr3.Runtime.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\obj\Debug\RepositorioGitHub.App.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\WebDriver.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.App\bin\WebDriver.xml

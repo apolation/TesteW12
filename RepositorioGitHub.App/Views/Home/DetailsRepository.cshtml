@@ -1,0 +1,96 @@
+﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.GitHubRepositoryViewModel>
+
+@{
+    ViewBag.Title = "Detalhe";
+}
+<link href="~/Content/toastr.css" rel="stylesheet" />
+
+
+
+
+<h2>Detalhes do Repositório</h2>
+
+<table class="table table-striped table-dark">
+    <thead>
+
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Descrição</th>
+            <th scope="col">Linguagem</th>
+            <th scope="col">Ultima Atualização</th>
+            <th scope="col">Proprietário</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.IsValid)
+        {
+        <tr>
+            <th scope="row">Repositório</th>
+            <td data-name="@Model.Result.Name">@Model.Result.Name</td>
+            <td data-description="@Model.Result.Description">@Model.Result.Description</td>
+            <td data-language="@Model.Result.Language">@Model.Result.Language</td>
+            <td data-data="@Model.Result.UpdatedAt">@Model.Result.UpdatedAt</td>
+            <td data-owner="@Model.Result.Owner.Login">@Model.Result.Owner.Login</td>
+            <td>
+                <button class="btn btn-primary btn-favorito"> Marcar Como Favorito </button>
+            </td>
+        </tr>
+        }
+
+
+    </tbody>
+</table>
+
+<p>
+
+    @Html.ActionLink("Voltar", "GetRepositorie")
+</p>
+
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+<script src="~/Scripts/toastr.js"></script>
+<script>
+    $(function () {
+        $(document).on('click', '.btn-favorito', function (e) {
+            e.preventDefault;
+            var name = $(this).closest('tr').find('td[data-name]').data('name');
+            var owner = $(this).closest('tr').find('td[data-owner]').data('owner');
+            var language = $(this).closest('tr').find('td[data-language]').data('language');
+            var lastUpdat = $(this).closest('tr').find('td[data-data]').data('data');
+            var description = $(this).closest('tr').find('td[data-description]').data('description');
+
+            $.ajax(
+                {
+
+                    type: "GET",
+                    async: true,
+                    url:  "@Url.Action("FavoriteSave","Home")",
+                    data: {
+                        owner: owner,
+                        name: name,
+                        language: language,
+                        lastUpdat: lastUpdat,
+                        description: description
+                    },
+                    dataType: "json",
+                    contentType: "application/json; charset=utf-8",
+                    success: function (response) {
+                       
+                        console.log(response);
+                        if (response.Data.IsValid) {
+                            toastr.success(response.Data.Message);
+                        } else {
+                            toastr.warning(response.Data.Message);
+                        }
+                            
+                       
+                    },
+                    error: function (xhr) {
+                      
+                    }
+                });
+
+        });
+    });
+</script>
+

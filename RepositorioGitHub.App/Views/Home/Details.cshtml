@@ -1,0 +1,39 @@
+﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.GitHubRepositoryViewModel>
+
+    @{
+        ViewBag.Title = "Detalhe";
+    }
+
+    <h2>Detalhe</h2>
+
+    <table class="table table-striped table-dark">
+        <thead>
+            
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Descrição</th>
+                <th scope="col">Linguagem</th>
+                <th scope="col">Ultima Atualização</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Result != null)
+            {
+                <tr>
+                    <th scope="row">Repositório</th>
+                    <td>@Model.Result.Name</td>
+                    <td>@Model.Result.Description</td>
+                    <td>@Model.Result.Language</td>
+                    <td>@Model.Result.UpdatedAt</td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+
+    <p>
+        
+        @Html.ActionLink("Voltar", "Index")
+    </p>

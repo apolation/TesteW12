@@ -1,0 +1,84 @@
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csprojAssemblyReference.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+C:\Users\thaiz\Downloads\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\x86\sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\x64\sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll.config
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RestSharp.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Buffers.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Memory.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RepositorioGitHub.Dominio.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\RestSharp.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Buffers.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Data.SQLite.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Memory.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\obj\Debug\RepositorioGitHub.Infra.pdb
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\WebDriver.dll
+C:\Users\Matheus\Desktop\Logica_da_Programacao\W12 - Teste QA(4)\W12 - Teste QA\TesteW12Github\RepositorioGitHub.Infra\bin\Debug\WebDriver.xml

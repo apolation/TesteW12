@@ -1,0 +1,73 @@
+﻿@model RepositorioGitHub.Dominio.ActionResult<RepositorioGitHub.Dominio.RepositoryViewModel>
+@{
+    ViewBag.Title = "GetRepositorie";
+}
+
+<h2>Veja outros Repositórios</h2>
+<br />
+<br />
+@using (Html.BeginForm("GetRepositorie", "Home", FormMethod.Post))
+{
+<div class="row">
+    <div class="col-md-6">
+        <form class="form-inline pull-right ">
+            <div class="form-group">
+                <label class="control-label">Nome do Repositório</label>
+                @Html.TextBoxFor(s => s.Result.Name, new { @class = "form-control" })
+            </div>
+
+        </form>
+    </div>
+    <div class="col-md-3  " style="padding-top: 25px">
+      
+        <button style="width:65%;float:left" type="submit" class="btn btn-primary  pull-left">Buscar <span class="glyphicon glyphicon-search"></span></button>
+
+    </div>
+</div>
+
+
+}
+
+<br />
+<br />
+@if (Model.Result != null)
+{
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table">
+                <tr>
+                    <th>Nome</th>
+                    <th>Proprietario</th>
+                    <th>Nome Completo</th>
+                    <th>URL</th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model.Result.Repositories)
+                {
+                    <tr>
+                        <td data-name="@item.Name">
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td data-owner="@item.Owner.Login">
+                            @Html.DisplayFor(modelItem => item.Owner.Login)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Url)
+                        </td>
+
+                        <td>
+                            @Html.ActionLink("Detalhe", "DetailsRepository", new { id = item.Id, item.Owner.Login })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+
+}
