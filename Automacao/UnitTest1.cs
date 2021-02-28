@@ -16,6 +16,7 @@ namespace Automacao
             IWebDriver driver = new ChromeDriver();
             
             driver.Navigate().GoToUrl("https://localhost:44329/");
+            driver.Manage().Window.Maximize();
 
             var titulo = driver.FindElement(By.XPath("/html/body/div[3]/h2"));
             Assert.True(titulo.Displayed);
